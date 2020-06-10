@@ -1,4 +1,4 @@
-> This is a fork of the main project "Jodit-Angular"
+> This is a fork of the main project "Jodit-Angular". The purpose of this is to develop plugins and customize some aspects of the original rich text editor.
 
 # Jodit Angular Component
 
