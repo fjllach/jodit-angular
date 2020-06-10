@@ -1,4 +1,4 @@
-> Hey. Due to the fact that I do not use Angular in my projects, I cannot fix plugin errors in a timely manner. If you want the plugin to develop, send PR or better become a contributor
+> This is a fork of the main project "Jodit-Angular"
 
 # Jodit Angular Component
 
